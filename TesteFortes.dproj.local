@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/17 11:16:25.000.538,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 11:21:34.000.080,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 11:24:20.000.574,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unPrincipal.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 11:24:20.000.574,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unPrincipal.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/17 11:24:47.000.701,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\dmGeral.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/09/17 11:24:47.000.701,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\dmGeral.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 11:24:59.000.069,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\TesteFortes.dproj=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/17 11:26:14.000.027,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 11:26:23.000.948,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 11:26:43.000.848,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unTanques.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/09/17 11:26:43.000.848,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unTanques.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/17 11:27:05.000.428,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/09/17 11:27:27.000.232,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unBombas.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/09/17 11:27:27.000.232,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unBombas.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2023/09/17 11:27:38.000.432,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/09/17 11:28:10.000.511,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unAbastecimento.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/09/17 11:28:10.000.511,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unAbastecimento.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2023/09/17 13:26:08.000.653,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 13:26:30.000.057,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unDataGeral.dfm=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/17 13:26:30.000.057,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\unDataGeral.pas=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/17 13:27:04.000.672,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\dmGeral.pas=</Transaction>
+    <Transaction>2023/09/17 13:27:16.000.093,=C:\Users\als_a\Documents\Embarcadero\Studio\Projects\dmGeral.pas</Transaction>
+    <Transaction>2023/09/17 13:27:35.000.213,C:\Users\als_a\Documents\Embarcadero\Studio\Projects\dmGeral.pas=</Transaction>
+    <Transaction>2023/09/18 05:38:42.000.989,=C:\Users\als_a\Desktop\TesteFortes\Unit1.pas</Transaction>
+    <Transaction>2023/09/18 05:39:24.000.354,C:\Users\als_a\Desktop\TesteFortes\unRelTotalPeriodo.dfm=C:\Users\als_a\Desktop\TesteFortes\Unit1.dfm</Transaction>
+    <Transaction>2023/09/18 05:39:24.000.354,C:\Users\als_a\Desktop\TesteFortes\unRelTotalPeriodo.pas=C:\Users\als_a\Desktop\TesteFortes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
